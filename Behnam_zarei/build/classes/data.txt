@@ -1,0 +1,3 @@
+kazem,Imen proje,12000,2,4
+ooooo1l,Imen proje,98000,1,1
+eee,Imen proje,12,4,2
